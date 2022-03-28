@@ -1,0 +1,76 @@
+html {
+  font-family: "Roboto", sans-serif;
+  background-color: #2e294e;
+  color: #f3dc1d;
+}
+h1 {
+  color: #f3dc1d;
+  font-size: 4rem;
+}
+.description {
+  color: aliceblue;
+  font-size: 1.5rem;
+}
+.page-container {
+  width: 90%;
+  margin: 0 auto;
+}
+.main-container {
+  background-color: #bd0f34;
+  border-radius: 10px;
+  padding: 3rem;
+  border: solid;
+  border-width: 1rem;
+  border-color: #951727;
+}
+.pkm-name {
+  background-color: #31a7f1;
+  border: solid;
+  border-color: #2164ea;
+  color: navy;
+  text-align: center;
+  padding: 0.8em;
+  border-radius: 6px;
+  font-weight: 900;
+  font-size: 2.5rem;
+  max-width: 100%;
+}
+#pokeImg {
+  border: solid;
+  border-color: #dedede;
+  border-radius: 10px;
+  border-width: 2rem;
+  background-color: #f1f2d3;
+  max-width: 80%;
+}
+#pokeName {
+  border-radius: 6px;
+  padding: 0.5em;
+  margin: 1rem 0;
+  background-color: #095378;
+  outline: none;
+  border: transparent;
+  color: aliceblue;
+  font-weight: 500;
+  font-size: 1.5rem;
+  max-width: 100%;
+}
+
+.search-pkm {
+  margin: 0.5rem;
+  background-color: #55ab62;
+  color: #1b4332;
+  outline: none;
+  border: 1px solid transparent;
+  padding: 0.5em;
+  border-radius: 10px;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+.info-container {
+  background-color: #032d29;
+  padding: 2rem;
+  border-radius: 6px;
+  color: #f3dc1d;
+  font-size: 1.2rem;
+}
